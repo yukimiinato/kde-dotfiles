@@ -1,0 +1,21 @@
+set $wallpaper /home/inder/Pictures/Pictures/wallpaperflare.com_wallpaper(1) (1).jpg
+
+set $background #1f010c
+set $foreground #f9d3dc
+
+set $color0 #1f010c
+set $color1 #b1a4b6
+set $color2 #e19499
+set $color3 #a7a8c3
+set $color4 #bea7b6
+set $color5 #b1abba
+set $color6 #d6c4c9
+set $color7 #dbc4bb
+set $color8 #cda7b0
+set $color9 #bbafc0
+set $color10 #e6a2a7
+set $color11 #b2b3cb
+set $color12 #c6b2c0
+set $color13 #bbb6c3
+set $color14 #dccbd0
+set $color15 #e0cbc4

@@ -1,0 +1,29 @@
+{
+    "checksum": "",
+    "wallpaper": "/home/inder/Pictures/Pictures/wallpaperflare.com_wallpaper(1) (1).jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f010c",
+        "foreground": "#f9d3dc",
+        "cursor": "#ffdde5"
+    },
+    "colors": {
+        "color0": "#1f010c",
+        "color1": "#b1a4b6",
+        "color2": "#e19499",
+        "color3": "#a7a8c3",
+        "color4": "#bea7b6",
+        "color5": "#b1abba",
+        "color6": "#d6c4c9",
+        "color7": "#dbc4bb",
+        "color8": "#cda7b0",
+        "color9": "#bbafc0",
+        "color10": "#e6a2a7",
+        "color11": "#b2b3cb",
+        "color12": "#c6b2c0",
+        "color13": "#bbb6c3",
+        "color14": "#dccbd0",
+        "color15": "#e0cbc4"
+    }
+}

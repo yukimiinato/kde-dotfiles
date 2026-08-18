@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/inder/Pictures/Pictures/wallpaperflare.com_wallpaper(1) (1).jpg"
+let background = "#1f010c"
+let foreground = "#f9d3dc"
+let cursor     = "#ffdde5"
+
+" Colors
+let color0  = "#1f010c"
+let color1  = "#b1a4b6"
+let color2  = "#e19499"
+let color3  = "#a7a8c3"
+let color4  = "#bea7b6"
+let color5  = "#b1abba"
+let color6  = "#d6c4c9"
+let color7  = "#dbc4bb"
+let color8  = "#cda7b0"
+let color9  = "#bbafc0"
+let color10 = "#e6a2a7"
+let color11 = "#b2b3cb"
+let color12 = "#c6b2c0"
+let color13 = "#bbb6c3"
+let color14 = "#dccbd0"
+let color15 = "#e0cbc4"

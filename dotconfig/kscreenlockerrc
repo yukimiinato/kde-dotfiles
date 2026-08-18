@@ -1,0 +1,6 @@
+[Daemon]
+Timeout=30
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/inder/Pictures/Pictures/wallpaperflare.com_wallpaper(1) (1).jpg
+PreviewImage=/home/inder/Pictures/Pictures/wallpaperflare.com_wallpaper(1) (1).jpg

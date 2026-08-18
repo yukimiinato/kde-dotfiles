@@ -1,0 +1,20 @@
+{
+  "logo": {
+    "type": "kitty",
+    "source": "~/.config/fastfetch/boch.jpg",
+    "width": 30,
+    "height": 14,
+    "padding": { "top": 2, "left": 1, "right": 2 }
+  },
+  "display": {
+    "color": {
+      "keys": "#ff69b4",
+      "title": "#ff1493"
+    }
+  },
+  "modules": [
+    "break","break","title", "separator", "os", "kernel","host", "uptime", "packages",
+    "shell", "terminal", "cpu", "gpu", "memory", "disk",
+    "break", "colors","break"
+  ]
+}

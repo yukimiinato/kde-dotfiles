@@ -1,0 +1,190 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=#35081a
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=
+IntensityAmount=0
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=#000000
+ColorAmount=0.025
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=146,67,82
+BackgroundNormal=#3e0d21
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#ffdde5
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:Complementary]
+BackgroundAlternate=#1f010c
+BackgroundNormal=#35081a
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#d89aac
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:Header]
+BackgroundAlternate=#35081a
+BackgroundNormal=#35081a
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#d89aac
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:Header][Inactive]
+BackgroundAlternate=#471227
+BackgroundNormal=#35081a
+DecorationFocus=#fc8992
+DecorationHover=#fc8992
+ForegroundActive=#6F9FE7
+ForegroundInactive=#9d6676
+ForegroundLink=#6F9FE7
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#d89aac
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:Selection]
+BackgroundAlternate=136,64,76
+BackgroundNormal=136,64,76
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=255,255,255
+ForegroundLink=133,66,76
+ForegroundNegative=#910527
+ForegroundNeutral=#A32B02
+ForegroundNormal=255,255,255
+ForegroundPositive=#29720A
+ForegroundVisited=#752471
+
+[Colors:Tooltip]
+BackgroundAlternate=#471227
+BackgroundNormal=#35081a
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#ffdde5
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:View]
+BackgroundAlternate=#35081a
+BackgroundNormal=#1f010c
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#ffdde5
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[Colors:Window]
+BackgroundAlternate=#471227
+BackgroundNormal=#35081a
+DecorationFocus=182,91,104
+DecorationHover=182,91,104
+ForegroundActive=182,91,104
+ForegroundInactive=#9d6676
+ForegroundLink=227,193,197
+ForegroundNegative=#FF6F7B
+ForegroundNeutral=#FF734A
+ForegroundNormal=#d89aac
+ForegroundPositive=#64B046
+ForegroundVisited=#D97DCF
+
+[General]
+AccentColor=182,91,104
+ColorScheme=MaterialYouDark
+ColorSchemeHash=bf32889ecc7fe5f753c8dd79c31e8272d109ad04
+LastUsedCustomAccentColor=233,61,88
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+accentColorFromWallpaper=true
+fixed=Monofur Nerd Font,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+font=Segoe UI Variable,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+menuFont=Segoe UI Variable,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+smallestReadableFont=Segoe UI Variable,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+toolBarFont=Segoe UI Variable,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[Icons]
+Theme=breeze-plus-dark
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+contrast=4
+frameContrast=0.2
+widgetStyle=Darkly
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[Sounds]
+Theme=oxygen
+
+[WM]
+activeBackground=71,18,39
+activeBlend=252,252,252
+activeFont=Segoe UI Variable,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+activeForeground=255,221,229
+inactiveBackground=130,32,73
+inactiveBlend=161,169,177
+inactiveForeground=255,191,209

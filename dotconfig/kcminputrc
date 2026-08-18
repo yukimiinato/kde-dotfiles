@@ -1,0 +1,9 @@
+[Libinput][10248][260][ASUF1204:00 2808:0104 Touchpad]
+NaturalScroll=true
+PointerAccelerationProfile=1
+
+[Libinput][2821][6582][ASUSTek Computer Inc. N-KEY Device]
+PointerAccelerationProfile=1
+
+[Mouse]
+cursorTheme=breeze_cursors
